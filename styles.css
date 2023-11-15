@@ -23,7 +23,13 @@ img {
     font-weight: 800;
 }
 
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+}
+
 li {
-    display: flex;
+    display: list-item;
+    margin: 16px 0;;
     
 }
